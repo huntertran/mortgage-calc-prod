@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1789621026199,
+  "index": "/mortgage-calc-prod/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/mortgage-calc-prod/chunk-7RDWV77Q.js",
+        "/mortgage-calc-prod/chunk-FIRQI75K.js",
+        "/mortgage-calc-prod/chunk-FK2TF6JO.js",
+        "/mortgage-calc-prod/chunk-IA4MNDEI.js",
+        "/mortgage-calc-prod/chunk-JARHIZ7U.js",
+        "/mortgage-calc-prod/chunk-OQWL7FKV.js",
+        "/mortgage-calc-prod/chunk-PMLCDH2B.js",
+        "/mortgage-calc-prod/chunk-RSARWDAN.js",
+        "/mortgage-calc-prod/chunk-WKCU2TFL.js",
+        "/mortgage-calc-prod/chunk-X7C6C6H3.js",
+        "/mortgage-calc-prod/chunk-XJL4ASWJ.js",
+        "/mortgage-calc-prod/chunk-YY6WBLTK.js",
+        "/mortgage-calc-prod/favicon.ico",
+        "/mortgage-calc-prod/index.html",
+        "/mortgage-calc-prod/main-O4NOJXBM.js",
+        "/mortgage-calc-prod/manifest.webmanifest",
+        "/mortgage-calc-prod/polyfills-FFHMD2TL.js",
+        "/mortgage-calc-prod/styles-EMQ6YA6S.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/mortgage-calc-prod/apple-touch-icon.png",
+        "/mortgage-calc-prod/icon-1024.png",
+        "/mortgage-calc-prod/icon-192.png",
+        "/mortgage-calc-prod/icon-512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/mortgage-calc-prod/apple-touch-icon.png": "29aa6539af23640f034be84797f9471feb264a3d",
+    "/mortgage-calc-prod/chunk-7RDWV77Q.js": "04662e25fc96e97628443050d590bdeb97ed94bc",
+    "/mortgage-calc-prod/chunk-FIRQI75K.js": "c2921c3579e1e83f14c1b67778ea3a2e45d8ac50",
+    "/mortgage-calc-prod/chunk-FK2TF6JO.js": "0cafbcc7c674d7e7bffbc0614aa1ce49a9a3e5ed",
+    "/mortgage-calc-prod/chunk-IA4MNDEI.js": "2f7c6f6cdb827a40dd106e3c1d129e1ccc6e4a2b",
+    "/mortgage-calc-prod/chunk-JARHIZ7U.js": "3999694b0a91359aed29d3ee9b3e98a2c0444230",
+    "/mortgage-calc-prod/chunk-OQWL7FKV.js": "38c5cee5524174d9d0e98fad40ed3dbabf638647",
+    "/mortgage-calc-prod/chunk-PMLCDH2B.js": "6323fa18b4b97d5a742c45a5ad2d4207f2a535ce",
+    "/mortgage-calc-prod/chunk-RSARWDAN.js": "3bfbe08d1208cd9c992e81a8b5cf593d12e46833",
+    "/mortgage-calc-prod/chunk-WKCU2TFL.js": "a01e337ea447103f8107714fc6e18f2fc0264a43",
+    "/mortgage-calc-prod/chunk-X7C6C6H3.js": "a53a450526d23f070a1cca89d9935b48e0961ea0",
+    "/mortgage-calc-prod/chunk-XJL4ASWJ.js": "a38c218724a138dfebf09833c0e05d4a2bd35906",
+    "/mortgage-calc-prod/chunk-YY6WBLTK.js": "be248d9972566eb053f336c9d31d1839c99067bd",
+    "/mortgage-calc-prod/favicon.ico": "1793046bc586c248eb431b072eb60f68ca7e11d6",
+    "/mortgage-calc-prod/icon-1024.png": "a53b6cfba709515fd60ac368809df89a76aa9665",
+    "/mortgage-calc-prod/icon-192.png": "19a7108bfd8a328b9b8bb3947e449e5e9cfb026f",
+    "/mortgage-calc-prod/icon-512.png": "7ccc59797b768ada7fce320549382a8285a6ded8",
+    "/mortgage-calc-prod/index.html": "5201380da5b94c8e224af1d630b03976a2c260ba",
+    "/mortgage-calc-prod/main-O4NOJXBM.js": "184c34556b7e4eba790065e91023155a48fb90a7",
+    "/mortgage-calc-prod/manifest.webmanifest": "ad749bd0fd39d637d710071874e6098eaf2506d7",
+    "/mortgage-calc-prod/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/mortgage-calc-prod/styles-EMQ6YA6S.css": "f0aa030d01f3e1adcec3cce3b286f8abf7d1bb8a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
