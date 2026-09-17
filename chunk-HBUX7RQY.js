@@ -1,1 +1,0 @@
-import{Qa as n,V as t}from"./chunk-UPTBMO2L.js";var o=class e{sectionTabs=n(null);static \u0275fac=function(a){return new(a||e)};static \u0275prov=t({token:e,factory:e.\u0275fac,providedIn:"root"})};export{o as a};
